@@ -1,4 +1,6 @@
 Whack-A-Mole
 ============
 
-Whack A Mole Gaem
+Whack A Mole Game
+Android Application
+
