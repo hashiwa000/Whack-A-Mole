@@ -12,6 +12,11 @@ import android.view.Window;
 import android.widget.Button;
 import android.widget.TextView;
 
+/**
+ * ƒ‚ƒOƒ‰‚½‚½‚«ƒQ[ƒ€ (Whack A Mole Game)
+ * 
+ * @auther hashiwa000
+ */
 public class MainActivity extends Activity {
 
 	// ‚à‚®‚ç
